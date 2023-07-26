@@ -1,11 +1,19 @@
 {
-  "name": "node-basic-structure",
+  "name": "nodebasicstructure",
   "version": "1.0.0",
-  "description": "testing",
+  "description": "by downloading this package you can get basic nodejs structure.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahek1604/nodeStructure.git"
+  },
   "author": "Mahek Mehta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "homepage": "https://github.com/Mahek1604/nodeStructure#readme"
 }
