@@ -4,6 +4,11 @@ const app = express();
 const server = http.createServer(app);
 const port = 3000;
 
+// This is basic setup of url.
+app.get('/welcome/to/nodeBasicStructure', (req,res) => {
+  res.status(200).send("Namaste")
+});
+
 server.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });

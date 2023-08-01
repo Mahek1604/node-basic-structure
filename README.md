@@ -5,8 +5,8 @@ By downloading this npm nodeBasicStructure package you will get basic code to ru
 
 ## Deployment
 
-To deploy this project run
+To deploy this project use latest node version and then install node modules.
 
 ```bash
-  node app.js
+  node server.js
 ```
