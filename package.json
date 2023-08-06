@@ -1,6 +1,6 @@
 {
   "name": "nodebasicstructure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "By using this command you can easily get a node basic project and some dependencies installed. ",
  
   "main": "server.js",
