@@ -1,21 +1,11 @@
 {
-  "name": "nodebasicstructure",
-  "version": "1.0.1",
-  "description": "By using this command you can easily get a node basic project and some dependencies installed. ",
- 
-  "main": "server.js",
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mahek1604/node-basic-structure.git"
-    
-  },
   "author": "Mahek Mehta",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "homepage": "https://github.com/Mahek1604/node-basic-structure#readme"
+  "license": "ISC"
 }
